@@ -35,17 +35,6 @@
     Secondly, there is no system like that, and I didn't wanted to end up integrating a docker based cloud with CMS. Furthermore I just need an application like that to keep organized and I'm tired of having some very personal data on OneDrive, other data on Google cloud, some notes here, and some notes there. The end goal is to have an application running on terminal or raspberry 24/7 plugged into my home network, without access to internet.
 </p>
 
-<h3>Preview</h3>
-<hr>	
-
-<img src="https://volmarg.github.io/img/project-example-dashboard.jpg">
-
-<img src="https://volmarg.github.io/img/project-example-charts.jpg">
-
-<img src="https://volmarg.github.io/img/project-example-contacts.jpg">
-
-<h3>Available options and modules</h3>
-<hr>
 
 <ol>
     <li><b style="display:inline">🎯 Todo/Goals</b> - <span align="justify"><i>Keep a track of your personal goals. You can use todolist to keep track of your goals progress or use payments submodule to keep an eye of the money amount that you want to collect for something.</i>
@@ -123,8 +112,7 @@
 </li>
 <li><a href="https://github.com/mbezhanov/faker-provider-collection">Faker Provider Collection</a> <small>(<a href="https://github.com/fzaninotto/faker">Faker</a> extension)</small></li>
 <li><a href="https://github.com/EastDesire/jscolor">JsColor</a> (<small>Color pickers for Notes module</small>)</li>
-<li>... bootstrap, TinyMce, DataTables and many others</li>
-<li>... I don't even know some of them which come prebuild in Symfonator</li>
+
 </ul>
 
 
