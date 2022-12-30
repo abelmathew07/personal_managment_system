@@ -114,5 +114,3 @@
 <li><a href="https://github.com/EastDesire/jscolor">JsColor</a> (<small>Color pickers for Notes module</small>)</li>
 
 </ul>
-
-
