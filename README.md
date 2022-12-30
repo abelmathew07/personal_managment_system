@@ -91,26 +91,6 @@
 </p>	
 <hr>
 
-<h2>Support</h2>
-
-<p align="justify">
-    I cannot guarantee support. I've got a job, personal things etc, I'm just sharing my code/my application as MIT. However feel totally free to ask about something, write issues etc. As mentioned I'm using and I will use this application from now on daily so there might be some changes even good for me.
-</p>
-
-<p align="justify">
-    As I'm working on it there will be some fixes, and new modules in future when I reach the point when I got all I need. So after reaching my goal I could handle some support requests if anyone will be interested.
-</p>
-
-<h3>Browsers Support</h3>
-<ul>
-	<li>Chrome</li>
-</ul>
-
-<p>
-	I mean for real. Just <b>Chrome</b>. I know about bug with copying password in Firefox for example. But I just do everything in Chrome so I'm not really planning to check that on other browsers. And before You ask why I only support chrome - I don't do it because of "chrome is the best" or anything like that, I just use that browser for 98% of time and that's just it.
-</p>
-
-<hr>
 
 <h2>Tech</h2>
 <p style="text-align:justify;">
@@ -147,17 +127,4 @@
 <li>... I don't even know some of them which come prebuild in Symfonator</li>
 </ul>
 
-<h2>Special thanks to</h2>
-<ul>
-	<li><a href="https://github.com/mogilvie">Mark Ogilvie</a> - for fixing EncryptBundle bugs for Symfony 4</li>
-	<li><a href="https://github.com/furcan">Furcan</a> - for adding my idea of contenteditable support for Icon Picker</li>
-	<li><a href="https://github.com/petervanderwalt">Petervanderwalt</a> - for adding fontawesome <b>js</b> version support for <a href="https://github.com/furcan/IconPicker">IconPicker</a></li>	
-	<li><a href="https://github.com/SimonHaas">SimonHaas</a> - for providing <b>docker</b> configuration</li>	
-	<li><a href="https://github.com/MohamedElashri">MohamedElashri</a> - for testing <b>docker</b> configuration</li>	
-	<li><a href="https://github.com/rwaight">Rob Waight</a> - for providing changes and documentation for running <b>docker</b> on windows</li>	
-</ul>
 
-<h3>Contact</h3>
-<hr>
-
-- <p align="left"><b>Mail</b> - <a href="mailto:personal.management.system.pms@gmail.com"><i>personal.management.system.pms@gmail.com</i></a></p>
